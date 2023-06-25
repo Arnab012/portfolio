@@ -1,0 +1,45 @@
+{
+  "projects": [
+   
+
+    
+    {
+      "date": "26/10/2022",
+      "title": "XCrypto",
+      "description": "This is Cypto Exchange and Crypto related Suggestion Giving Website .Made Using React and coingeko API and for style i use Chakra UI",
+      "url": "https://xcrypto-five.vercel.app/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2017/12/12/12/44/bitcoin-3014614_960_720.jpg"
+    },
+    {
+      "date": "26/31/2023",
+      "title": "Summary_with_Ai",
+      "description": "This is an website made using Vite and React.js which will take url as a input and give you the summary as a result of the link",
+      "url": "https://resilient-peony-9c92d5.netlify.app/",
+      "imgSrc": "https://tse1.mm.bing.net/th?id=OIP.5lxfc1J6-tf5V3w6i386HAHaEK&pid=Api&rs=1&c=1&qlt=95&w=187&h=105"
+    },
+    {
+      "date": "17/12/2022",
+      "title": "REACT CART",
+      "description": "This is an E cart-Basic made by me To Understand the power of React-redux and redux-toolkit",
+      "url": "https://redux-cart-lake.vercel.app/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2019/12/14/08/36/shopping-4694470_960_720.jpg"
+    },
+    {
+      "date": "17/2/2023",
+      "title": "News_App",
+      "description": "This is an Application using React and in this appliaction i used News Api and from that api i fetch the news according to the domain",
+      "url": "https://news-green-xi.vercel.app/",
+      "imgSrc": "https://soshace.com/wp-content/uploads/2020/10/789-png.png"
+    },
+ 
+    {
+      "date": "11/11/2022",
+      "title": "Gaming_Web",
+      "description": "This is an website for the Gamers .They can Uplode Video and Audio here and User can see the Videos Here ,I made it using React and Chakara UI and React-responsve-carousel with light and dark  mode ",
+      "url": "https://reacct-video-app.vercel.app/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2016/11/21/12/51/mobile-phone-1845233__340.jpg"
+    }
+    
+  
+  ]
+}
